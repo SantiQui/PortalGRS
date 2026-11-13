@@ -1,0 +1,6 @@
+{
+  "name": "Guaycurues Rugby Sunchales — Sistema Integral de Gestión",
+  "description": "Plataforma integral de gestión deportiva, societaria y financiera (SRS v2.1) para Guaycurues Rugby Sunchales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
